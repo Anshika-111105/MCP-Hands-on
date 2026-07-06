@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "apify-automation-mcp": {
+      "command": "node",
+      "args": [
+        "C:/Users/YourUsername/projects/apify-mcp-server/dist/index.js"
+      ],
+      "env": {
+        "APIFY_TOKEN": "apify_api_yourActualSecretTokenHere"
+      }
+    }
+  }
+}
