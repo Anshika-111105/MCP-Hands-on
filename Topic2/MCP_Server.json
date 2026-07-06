@@ -1,0 +1,13 @@
+{
+  "jsonrpc": "2.0",
+  "id": 42,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"success\": true,\n  \"totalResultsFound\": 14,\n  \"prospects\": [\n    {\n      \"fullName\": \"Sarah Jenkins\",\n      \"title\": \"VP of Infrastructure\",\n      \"email\": \"sarah.jenkins@snowflake.com\",\n      \"companyName\": \"Snowflake\",\n      \"companyDomain\": \"snowflake.com\",\n      \"linkedinUrl\": \"linkedin.com/in/s-jenkins-example\",\n      \"cityState\": \"San Francisco, CA\"\n    }\n  ]\n}"
+      }
+    ],
+    "isError": false
+  }
+}

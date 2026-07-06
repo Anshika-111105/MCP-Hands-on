@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "method": "tools/call",
+  "id": 42,
+  "params": {
+    "name": "search_apollo_prospects",
+    "arguments": {
+      "q_organization_domains": "snowflake.com, databricks.com",
+      "person_titles": ["VP of Infrastructure", "Director of DevOps"],
+      "person_locations": ["United States"],
+      "limit": 3
+    }
+  }
+}
